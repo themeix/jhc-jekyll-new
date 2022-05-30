@@ -48,8 +48,8 @@
       position: absolute;
       z-index: 100;
       left: 0;
-      width: 80px;
-      height: 80px;
+      width: 800px;
+      height: 800px;
       margin-left: 0;
       text-align: center;
       color: $white;
@@ -115,15 +115,17 @@
       }
       .timeline-image {
         left: 50%;
-        width: 100px;
-        height: 100px;
+        width: 130px;
+        height: 130px;
         margin-left: -50px;
         h4 {
           font-size: 13px;
           line-height: 18px;
           margin-top: 16px;
         }
+
       }
+
       &.timeline-inverted > .timeline-panel {
         float: right;
         padding: 0 30px 20px 20px;
@@ -140,8 +142,8 @@
         padding: 0 20px 20px;
       }
       .timeline-image {
-        width: 150px;
-        height: 150px;
+        width: 200px;
+        height: 200px;
         margin-left: -75px;
         h4 {
           font-size: 18px;
