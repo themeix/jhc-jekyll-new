@@ -13,8 +13,10 @@
 
 theme: jekyll-agency
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+url: tomjoht.github.io
+   baseurl: /myreponame
+url    : test.jhc.design
+baseurl: github.com/jhrgehcorrea/jhc-jekyll
 
 title      : jhc.design
 email      : jorgecorrea.id@gmail.com #this is also the email contact forms will go to
