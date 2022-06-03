@@ -13,8 +13,15 @@
 
 theme: jekyll-agency
 
+<<<<<<< HEAD
 url    : https://www.jorgehernancorrea.com
 baseurl: github.com/jhrgehcorrea/jhc-jekyll
+=======
+url: tomjoht.github.io
+   baseurl: /myreponame
+url    : test.jhc.design
+baseurl: github.com/jorgehcorrea/jhc-jekyll
+>>>>>>> b2a062745cd149f6558931b747c9a4d049fb83c4
 
 title      : jhc.design
 email      : jorgecorrea.id@gmail.com #this is also the email contact forms will go to
