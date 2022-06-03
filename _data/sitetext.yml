@@ -119,7 +119,7 @@ en: &DEFAULT_EN
         role: "Formation and Experiance"
         image: assets/img/face/CV.jpg
         social:
-            - url:  https://docs.google.com/document/d/e/2PACX-1vS9hWImolgWfJlTnLHu7iM7IdPJAVgsi_4e6c9m324DiotmnN5f1_xz8uQi9IyCvJvS_ECNxvluGGhz/pub
+            - url: https://docs.google.com/document/d/e/2PACX-1vTtLYcKoIaZE1OtWWPSy55PvpW5GOcKORrYiJssaf7zC1hIDYmgFeKPn8O5R5A94siIsl4TSvxKq69w/pub
               icon: fa-file-pdf
 
       - name: "Portfolio"

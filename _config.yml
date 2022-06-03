@@ -13,9 +13,7 @@
 
 theme: jekyll-agency
 
-url: tomjoht.github.io
-   baseurl: /myreponame
-url    : test.jhc.design
+url    : https://www.jorgehernancorrea.com
 baseurl: github.com/jhrgehcorrea/jhc-jekyll
 
 title      : jhc.design
