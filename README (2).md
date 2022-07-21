@@ -101,7 +101,7 @@ Simply generate your own repository by clicking the button below. Then replace t
 [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)][generate]
 
 </div>
-    
+
 #### 3. Remote Theme Installation
 
 Replace your `_config.yml` file with the starter [\_config.yml](https://raw.githubusercontent.com/raviriley/agency-jekyll-theme-starter/master/_config.yml).

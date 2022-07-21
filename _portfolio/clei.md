@@ -17,3 +17,15 @@ Use this area to describe your project. **Markdown** supported. This entry (proj
 - Date: January 2017
 - Client: Threads
 - Category: Illustration
+
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/clei/clei.jpg" />
+</div>
+
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/clei/clei2.jpg" />
+</div>
+
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/clei/clei3.jpg" />
+</div>

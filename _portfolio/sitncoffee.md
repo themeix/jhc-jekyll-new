@@ -17,3 +17,28 @@ alt: image alt text
 - **Date:** 2019
 - **Client:** MIT Fabacademy
 - **Category:** Iot: Furniture
+
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/sitncoffee/sn.jpg" />
+</div>
+
+
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/sitncoffee/sn3.jpg" />
+</div>
+
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/sitncoffee/sn4.jpg" />
+</div>
+
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/sitncoffee/sn5.jpg" />
+</div>
+
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/sitncoffee/sn6.jpg" />
+</div>
+
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/sitncoffee/sn3.jpg" />
+</div>

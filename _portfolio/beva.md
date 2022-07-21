@@ -1,7 +1,7 @@
 ---
 title: B'eva - Sneakers
 subtitle: Strategic Market Aproach
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+image:  ../../assets/img/face/bunky.jpg
 alt: Keep Exploring
 
 caption:
@@ -10,10 +10,30 @@ caption:
   thumbnail:  ../../assets/img/face/bunky.jpg
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
 {:.list-inline}
 
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+Date: January 2020-2021
+Client: Bunky
+Category: Brand Design
+
+<div id="container">
+    <img id="bigDude" src="../../assets/img/portfolio/beva/beva.jpg" />
+</div>
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/beva/beva2.jpg" />
+</div>
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/beva/beva3.jpg" />
+</div>
+<div id="container">
+    <img id="bigDude" src="../../assets/img/portfolio/beva/beva4.jpg" />
+</div>
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/beva/beva5.jpg" />
+</div>
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/beva/beva6.jpg" />
+</div>
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/beva/beva7.jpg" />
+</div>

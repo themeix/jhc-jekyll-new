@@ -1,7 +1,7 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+title: Prana
+subtitle: Exploring the air purification Market
+image: b../../assets/img/portfolio/prana/prana0.jpg
 alt: Shirts on a hanger
 
 caption:
@@ -10,10 +10,34 @@ caption:
   thumbnail:   ../../assets/img/face/prana.jpg
 ---
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: June 2022
+- Client: Air Purification Market
+- Category: Strategy
+
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/prana/prana (5).jpg" />
+</div>
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/prana/prana.jpg" />
+</div>
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/prana/prana (6).jpg" />
+</div>
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/prana/prana (7).jpg" />
+</div>
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/prana/prana (8).jpg" />
+</div>
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/prana/prana (9).jpg" />
+</div>
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/prana/prana (10).jpg" />
+</div>
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/prana/prana (1).jpg" />
+</div>

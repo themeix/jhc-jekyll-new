@@ -11,17 +11,17 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: I design **physical** products,<br> spaces & experiances
+    title: I design physical & Digital products,<br> spaces & experiances
     text:
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "What I do"
     text: "The whole picture"
     section: services
     list:
-      - title: "Design Strategy & Frameworks"
+      - title: "Design & Strategy"
         desc: "The Analysis and development through innovative frameworks to make sure the best option is used"
         icon: fas fa-chess #find more at https://fontawesome.com/icons
       - title: "Concept Development"
@@ -32,8 +32,8 @@ en: &DEFAULT_EN
         icon: fas fa-cube
 
   portfolio:
-    title: "Portfolio"
-    text: "Past project and skills I bring to the table"
+    title: "Industrial & Strategic Design"
+    text: "I design Physical & Digital products,<br> spaces & experiances"
     section: portfolio
     closebutton: "Close Project"
 

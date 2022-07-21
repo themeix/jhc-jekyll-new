@@ -13,9 +13,9 @@ en: &DEFAULT_EN
   nav:
     - title: "What I do"
       section: services
-    - title: "Past Work"
+    - title: "Work"
       section: portfolio
-    - title: "About Me"
+    - title: ""
       section: about
 #    - blog: "Intrests"
 #      section: posts

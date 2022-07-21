@@ -1,7 +1,7 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+title: Colgado
+subtitle: Stool for small spaces
+image: ../../assets/img/face/colgado.jpg
 alt: Keep Exploring
 
 caption:
@@ -17,3 +17,23 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 - Date: January 2017
 - Client: Explore
 - Category: Graphic Design
+
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/colgado/colgadov.gif" />
+</div>
+
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/colgado/colgado (3).jpg" />
+</div>
+
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/colgado/colgado (5).jpg" />
+</div>
+
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/colgado/colgado (6).jpg" />
+</div>
+
+<div id="container">
+    <img id="bigDude" src="b../../assets/img/portfolio/colgado/colgado (2).jpg" />
+</div>
